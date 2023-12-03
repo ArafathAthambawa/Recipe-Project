@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color:burlywood;
+    color: black;
+    padding: 15px;
+}
+.mainint{
+    display: inline;
+}
+.dis{
+    display: inline;
+}
+.disc_one{
+    display: inline;
+}
+
+.dis{
+    margin-left: 50%;
+}
+.Home{
+    text-align: center;
+    padding: 50px;
+}
+h2{
+    text-align: center;
+    padding: 50px;
+}
+.box_img{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 50px;
+    text-align: center;
+}
+.box_img1{
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+.box_img:hover{
+    background-color:black;
+    color: white;
+    cursor: pointer;
+}
+.box_img1:hover{
+    background-color:black;
+    color: white;
+    cursor: pointer;
+}
+.npage{
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 40px;
+   
+    display: inline-block;
+}
+.int{
+    display: block;
+}
+.Contact{
+    background-color:rgb(199, 133, 133);
+    color: black;
+    padding: 25px;
+    text-align: center;
+}
+.disc_one:hover{
+    color: white;
+    cursor: pointer;
+}
+.var{
+    display: block;
+    margin-left: 20px;
+}
+.var_one{
+    display: block;
+    font-size: larger;
+}
+.ricipe_one{
+    display: block;
+    margin-left: 10px;
+}
+.recipe_mari{
+    display: block;
+    margin-left: 20px;
+}
+.recipe_ins{
+    display: block;
+    margin-left: 20px;
+}
+.button{
+    text-align: center;
+    margin-top: 15px;
+}
+.pizza_rci{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.pizza_rci_one{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.pizza_rci_two{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.pizza_rci_three{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.pizza_rci_four{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.pizza_rci_five{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.pizza_rci_six{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.Buger_rci{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.buger_rci_two{
+    margin-top: 10px;
+}
+.buger_rci_three{
+    margin-top: 10px;
+}
+.buger_rci_four{
+    margin-top: 10px;
+}
+.pasta_rci{
+    margin-left: 20px;
+}
+.pasta_rci_2{
+    margin-top: 10px;
+}
